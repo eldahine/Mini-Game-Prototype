@@ -1,0 +1,5302 @@
+fileFormatVersion: 2
+guid: 7adfce69633c9944d8bcfffa52ab308c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9150904031941281861
+    second: Kenney Tiny Battle Tilemap CC0_0
+  - first:
+      213: 9079291163653501654
+    second: Kenney Tiny Battle Tilemap CC0_1
+  - first:
+      213: -8928467341111688087
+    second: Kenney Tiny Battle Tilemap CC0_2
+  - first:
+      213: 397192662743702361
+    second: Kenney Tiny Battle Tilemap CC0_3
+  - first:
+      213: -3348568975399700081
+    second: Kenney Tiny Battle Tilemap CC0_4
+  - first:
+      213: -1653556795144777933
+    second: Kenney Tiny Battle Tilemap CC0_5
+  - first:
+      213: 5525217514249467095
+    second: Kenney Tiny Battle Tilemap CC0_6
+  - first:
+      213: 8382626579824679228
+    second: Kenney Tiny Battle Tilemap CC0_7
+  - first:
+      213: 3814187536956319533
+    second: Kenney Tiny Battle Tilemap CC0_8
+  - first:
+      213: 8942170786162164884
+    second: Kenney Tiny Battle Tilemap CC0_9
+  - first:
+      213: -7887483232723655731
+    second: Kenney Tiny Battle Tilemap CC0_10
+  - first:
+      213: -7805569075176865957
+    second: Kenney Tiny Battle Tilemap CC0_11
+  - first:
+      213: 8704212866593454127
+    second: Kenney Tiny Battle Tilemap CC0_12
+  - first:
+      213: -5193057203410208816
+    second: Kenney Tiny Battle Tilemap CC0_13
+  - first:
+      213: -8046581022623418695
+    second: Kenney Tiny Battle Tilemap CC0_14
+  - first:
+      213: -4833179434931929919
+    second: Kenney Tiny Battle Tilemap CC0_15
+  - first:
+      213: -1602873493204978382
+    second: Kenney Tiny Battle Tilemap CC0_16
+  - first:
+      213: -5598976596703082485
+    second: Kenney Tiny Battle Tilemap CC0_17
+  - first:
+      213: -8930801585687989443
+    second: Kenney Tiny Battle Tilemap CC0_18
+  - first:
+      213: 6666005161994278587
+    second: Kenney Tiny Battle Tilemap CC0_19
+  - first:
+      213: -7207016844590382897
+    second: Kenney Tiny Battle Tilemap CC0_20
+  - first:
+      213: 6477144523189683607
+    second: Kenney Tiny Battle Tilemap CC0_21
+  - first:
+      213: 1010717970715207460
+    second: Kenney Tiny Battle Tilemap CC0_22
+  - first:
+      213: -8748440644200852063
+    second: Kenney Tiny Battle Tilemap CC0_23
+  - first:
+      213: -7392565461367121393
+    second: Kenney Tiny Battle Tilemap CC0_24
+  - first:
+      213: 6112894239391258931
+    second: Kenney Tiny Battle Tilemap CC0_25
+  - first:
+      213: -2599801874584048329
+    second: Kenney Tiny Battle Tilemap CC0_26
+  - first:
+      213: 7725363726412262694
+    second: Kenney Tiny Battle Tilemap CC0_27
+  - first:
+      213: -7914612936882196978
+    second: Kenney Tiny Battle Tilemap CC0_28
+  - first:
+      213: -3913135367431184943
+    second: Kenney Tiny Battle Tilemap CC0_29
+  - first:
+      213: 7171263858473392911
+    second: Kenney Tiny Battle Tilemap CC0_30
+  - first:
+      213: 2744775109857873748
+    second: Kenney Tiny Battle Tilemap CC0_31
+  - first:
+      213: 5818763497897576790
+    second: Kenney Tiny Battle Tilemap CC0_32
+  - first:
+      213: 5860933025171061220
+    second: Kenney Tiny Battle Tilemap CC0_33
+  - first:
+      213: 1517506204109681559
+    second: Kenney Tiny Battle Tilemap CC0_34
+  - first:
+      213: -7422359202247871921
+    second: Kenney Tiny Battle Tilemap CC0_35
+  - first:
+      213: 4220808098021313119
+    second: Kenney Tiny Battle Tilemap CC0_36
+  - first:
+      213: 721277005107064193
+    second: Kenney Tiny Battle Tilemap CC0_37
+  - first:
+      213: -2154822103515933783
+    second: Kenney Tiny Battle Tilemap CC0_38
+  - first:
+      213: -4601338135259867144
+    second: Kenney Tiny Battle Tilemap CC0_39
+  - first:
+      213: 5311495526347529643
+    second: Kenney Tiny Battle Tilemap CC0_40
+  - first:
+      213: -9065680347298082164
+    second: Kenney Tiny Battle Tilemap CC0_41
+  - first:
+      213: -6837205376260529038
+    second: Kenney Tiny Battle Tilemap CC0_42
+  - first:
+      213: -2239716492245736992
+    second: Kenney Tiny Battle Tilemap CC0_43
+  - first:
+      213: 2713637898134242914
+    second: Kenney Tiny Battle Tilemap CC0_44
+  - first:
+      213: 8805627942087305384
+    second: Kenney Tiny Battle Tilemap CC0_45
+  - first:
+      213: 1813284583960275657
+    second: Kenney Tiny Battle Tilemap CC0_46
+  - first:
+      213: 9190433103466787418
+    second: Kenney Tiny Battle Tilemap CC0_47
+  - first:
+      213: -4349297289891375233
+    second: Kenney Tiny Battle Tilemap CC0_48
+  - first:
+      213: 2189716939741312239
+    second: Kenney Tiny Battle Tilemap CC0_49
+  - first:
+      213: 861755782663707477
+    second: Kenney Tiny Battle Tilemap CC0_50
+  - first:
+      213: 1687922292027442333
+    second: Kenney Tiny Battle Tilemap CC0_51
+  - first:
+      213: 7847337779882110735
+    second: Kenney Tiny Battle Tilemap CC0_52
+  - first:
+      213: 3271163271099426980
+    second: Kenney Tiny Battle Tilemap CC0_53
+  - first:
+      213: -1629742756340158783
+    second: Kenney Tiny Battle Tilemap CC0_54
+  - first:
+      213: 4275575885179571975
+    second: Kenney Tiny Battle Tilemap CC0_55
+  - first:
+      213: 4803658574835684793
+    second: Kenney Tiny Battle Tilemap CC0_56
+  - first:
+      213: 6723922854074270874
+    second: Kenney Tiny Battle Tilemap CC0_57
+  - first:
+      213: -2428507757667450699
+    second: Kenney Tiny Battle Tilemap CC0_58
+  - first:
+      213: -2375827861767374750
+    second: Kenney Tiny Battle Tilemap CC0_59
+  - first:
+      213: -1998061589212129606
+    second: Kenney Tiny Battle Tilemap CC0_60
+  - first:
+      213: 8612841100241075174
+    second: Kenney Tiny Battle Tilemap CC0_61
+  - first:
+      213: -450095021869057188
+    second: Kenney Tiny Battle Tilemap CC0_62
+  - first:
+      213: -1735052755922984851
+    second: Kenney Tiny Battle Tilemap CC0_63
+  - first:
+      213: -1982052463943637489
+    second: Kenney Tiny Battle Tilemap CC0_64
+  - first:
+      213: -8650126814067561454
+    second: Kenney Tiny Battle Tilemap CC0_65
+  - first:
+      213: 9083058497088152210
+    second: Kenney Tiny Battle Tilemap CC0_66
+  - first:
+      213: -3882768184306449449
+    second: Kenney Tiny Battle Tilemap CC0_67
+  - first:
+      213: 7403885561155009239
+    second: Kenney Tiny Battle Tilemap CC0_68
+  - first:
+      213: -8787244850638158528
+    second: Kenney Tiny Battle Tilemap CC0_69
+  - first:
+      213: -4717634996980959412
+    second: Kenney Tiny Battle Tilemap CC0_70
+  - first:
+      213: 5730546518187306250
+    second: Kenney Tiny Battle Tilemap CC0_71
+  - first:
+      213: -7077069953958220856
+    second: Kenney Tiny Battle Tilemap CC0_72
+  - first:
+      213: -4580345345637867045
+    second: Kenney Tiny Battle Tilemap CC0_73
+  - first:
+      213: 1783585401117845127
+    second: Kenney Tiny Battle Tilemap CC0_74
+  - first:
+      213: 5554496462754801058
+    second: Kenney Tiny Battle Tilemap CC0_75
+  - first:
+      213: -9191500636331641741
+    second: Kenney Tiny Battle Tilemap CC0_76
+  - first:
+      213: -8894838908820007833
+    second: Kenney Tiny Battle Tilemap CC0_77
+  - first:
+      213: 4400482780886630181
+    second: Kenney Tiny Battle Tilemap CC0_78
+  - first:
+      213: -5573535196555666667
+    second: Kenney Tiny Battle Tilemap CC0_79
+  - first:
+      213: -8764001030486955971
+    second: Kenney Tiny Battle Tilemap CC0_80
+  - first:
+      213: 873536722135875954
+    second: Kenney Tiny Battle Tilemap CC0_81
+  - first:
+      213: 1074090253252873379
+    second: Kenney Tiny Battle Tilemap CC0_82
+  - first:
+      213: -6260982805986324386
+    second: Kenney Tiny Battle Tilemap CC0_83
+  - first:
+      213: 3809263205070830778
+    second: Kenney Tiny Battle Tilemap CC0_84
+  - first:
+      213: 2349875742573816129
+    second: Kenney Tiny Battle Tilemap CC0_85
+  - first:
+      213: 318493388894126148
+    second: Kenney Tiny Battle Tilemap CC0_86
+  - first:
+      213: -8650155400935037281
+    second: Kenney Tiny Battle Tilemap CC0_87
+  - first:
+      213: 3199858792898489015
+    second: Kenney Tiny Battle Tilemap CC0_88
+  - first:
+      213: 8650593069824269550
+    second: Kenney Tiny Battle Tilemap CC0_89
+  - first:
+      213: 3807183737083813281
+    second: Kenney Tiny Battle Tilemap CC0_90
+  - first:
+      213: -4890634343038676636
+    second: Kenney Tiny Battle Tilemap CC0_91
+  - first:
+      213: -3418670993273871825
+    second: Kenney Tiny Battle Tilemap CC0_92
+  - first:
+      213: 8940113486371625853
+    second: Kenney Tiny Battle Tilemap CC0_93
+  - first:
+      213: -3169585614072880800
+    second: Kenney Tiny Battle Tilemap CC0_94
+  - first:
+      213: 6177658900852324157
+    second: Kenney Tiny Battle Tilemap CC0_95
+  - first:
+      213: -771092031467708357
+    second: Kenney Tiny Battle Tilemap CC0_96
+  - first:
+      213: 6569958210473936788
+    second: Kenney Tiny Battle Tilemap CC0_97
+  - first:
+      213: 4722563092098717250
+    second: Kenney Tiny Battle Tilemap CC0_98
+  - first:
+      213: 5154785601422196496
+    second: Kenney Tiny Battle Tilemap CC0_99
+  - first:
+      213: 1716682657035835445
+    second: Kenney Tiny Battle Tilemap CC0_100
+  - first:
+      213: -1029264646172336795
+    second: Kenney Tiny Battle Tilemap CC0_101
+  - first:
+      213: 6199888076110564334
+    second: Kenney Tiny Battle Tilemap CC0_102
+  - first:
+      213: 107777780529676990
+    second: Kenney Tiny Battle Tilemap CC0_103
+  - first:
+      213: 77200478798319098
+    second: Kenney Tiny Battle Tilemap CC0_104
+  - first:
+      213: -7688783758073681819
+    second: Kenney Tiny Battle Tilemap CC0_105
+  - first:
+      213: 508168628682781966
+    second: Kenney Tiny Battle Tilemap CC0_106
+  - first:
+      213: -1673895633388251248
+    second: Kenney Tiny Battle Tilemap CC0_107
+  - first:
+      213: -4707750184505645075
+    second: Kenney Tiny Battle Tilemap CC0_108
+  - first:
+      213: 2786057513474929176
+    second: Kenney Tiny Battle Tilemap CC0_109
+  - first:
+      213: -470677568135119724
+    second: Kenney Tiny Battle Tilemap CC0_110
+  - first:
+      213: -4187015039611390592
+    second: Kenney Tiny Battle Tilemap CC0_111
+  - first:
+      213: 1900661582242109188
+    second: Kenney Tiny Battle Tilemap CC0_112
+  - first:
+      213: 1692540988175007318
+    second: Kenney Tiny Battle Tilemap CC0_113
+  - first:
+      213: -1410116992444378814
+    second: Kenney Tiny Battle Tilemap CC0_114
+  - first:
+      213: -5717644154869972945
+    second: Kenney Tiny Battle Tilemap CC0_115
+  - first:
+      213: -6762594888721721965
+    second: Kenney Tiny Battle Tilemap CC0_116
+  - first:
+      213: -894042333384277896
+    second: Kenney Tiny Battle Tilemap CC0_117
+  - first:
+      213: 8385128745007963389
+    second: Kenney Tiny Battle Tilemap CC0_118
+  - first:
+      213: 3075568582786525408
+    second: Kenney Tiny Battle Tilemap CC0_119
+  - first:
+      213: -2536557954014200595
+    second: Kenney Tiny Battle Tilemap CC0_120
+  - first:
+      213: -1723638110773549914
+    second: Kenney Tiny Battle Tilemap CC0_121
+  - first:
+      213: 4222996994743010605
+    second: Kenney Tiny Battle Tilemap CC0_122
+  - first:
+      213: -6950221269540292964
+    second: Kenney Tiny Battle Tilemap CC0_123
+  - first:
+      213: -3874454430713279154
+    second: Kenney Tiny Battle Tilemap CC0_124
+  - first:
+      213: 7260393590207573850
+    second: Kenney Tiny Battle Tilemap CC0_125
+  - first:
+      213: -3299504190058056332
+    second: Kenney Tiny Battle Tilemap CC0_126
+  - first:
+      213: -120526392417520788
+    second: Kenney Tiny Battle Tilemap CC0_127
+  - first:
+      213: -7162258944428598217
+    second: Kenney Tiny Battle Tilemap CC0_128
+  - first:
+      213: 6653463356117397276
+    second: Kenney Tiny Battle Tilemap CC0_129
+  - first:
+      213: -3868267667296826233
+    second: Kenney Tiny Battle Tilemap CC0_130
+  - first:
+      213: -5418734308533709016
+    second: Kenney Tiny Battle Tilemap CC0_131
+  - first:
+      213: -1754695351292338383
+    second: Kenney Tiny Battle Tilemap CC0_132
+  - first:
+      213: 7006480353745252088
+    second: Kenney Tiny Battle Tilemap CC0_133
+  - first:
+      213: -4816954281122600059
+    second: Kenney Tiny Battle Tilemap CC0_134
+  - first:
+      213: -5120594620257598502
+    second: Kenney Tiny Battle Tilemap CC0_135
+  - first:
+      213: 2725031280488046226
+    second: Kenney Tiny Battle Tilemap CC0_136
+  - first:
+      213: -3153555784364461069
+    second: Kenney Tiny Battle Tilemap CC0_137
+  - first:
+      213: 2047301281899336113
+    second: Kenney Tiny Battle Tilemap CC0_138
+  - first:
+      213: -146357302309565506
+    second: Kenney Tiny Battle Tilemap CC0_139
+  - first:
+      213: 3934802146003420876
+    second: Kenney Tiny Battle Tilemap CC0_140
+  - first:
+      213: 2848902348715182711
+    second: Kenney Tiny Battle Tilemap CC0_141
+  - first:
+      213: 3262535307900749555
+    second: Kenney Tiny Battle Tilemap CC0_142
+  - first:
+      213: -3121119695112825788
+    second: Kenney Tiny Battle Tilemap CC0_143
+  - first:
+      213: -4182031216008740402
+    second: Kenney Tiny Battle Tilemap CC0_144
+  - first:
+      213: -8087092209281794902
+    second: Kenney Tiny Battle Tilemap CC0_145
+  - first:
+      213: 5666118351991135948
+    second: Kenney Tiny Battle Tilemap CC0_146
+  - first:
+      213: -80731192385193444
+    second: Kenney Tiny Battle Tilemap CC0_147
+  - first:
+      213: 8135816033086634556
+    second: Kenney Tiny Battle Tilemap CC0_148
+  - first:
+      213: 1743148162901279452
+    second: Kenney Tiny Battle Tilemap CC0_149
+  - first:
+      213: 2038512976574847162
+    second: Kenney Tiny Battle Tilemap CC0_150
+  - first:
+      213: -6483512233735877006
+    second: Kenney Tiny Battle Tilemap CC0_151
+  - first:
+      213: 8772026137100698987
+    second: Kenney Tiny Battle Tilemap CC0_152
+  - first:
+      213: -2540540036656008067
+    second: Kenney Tiny Battle Tilemap CC0_153
+  - first:
+      213: 7661682520397767400
+    second: Kenney Tiny Battle Tilemap CC0_154
+  - first:
+      213: -234734998634928097
+    second: Kenney Tiny Battle Tilemap CC0_155
+  - first:
+      213: -3604699472965875655
+    second: Kenney Tiny Battle Tilemap CC0_156
+  - first:
+      213: 6134045202180596247
+    second: Kenney Tiny Battle Tilemap CC0_157
+  - first:
+      213: -6373086180561186257
+    second: Kenney Tiny Battle Tilemap CC0_158
+  - first:
+      213: -4793216972960969813
+    second: Kenney Tiny Battle Tilemap CC0_159
+  - first:
+      213: 8988127831327858027
+    second: Kenney Tiny Battle Tilemap CC0_160
+  - first:
+      213: -5812161379665189952
+    second: Kenney Tiny Battle Tilemap CC0_161
+  - first:
+      213: 5226709757737875630
+    second: Kenney Tiny Battle Tilemap CC0_162
+  - first:
+      213: 1215805609553257254
+    second: Kenney Tiny Battle Tilemap CC0_163
+  - first:
+      213: 6882973916554497466
+    second: Kenney Tiny Battle Tilemap CC0_164
+  - first:
+      213: -8338486530736651435
+    second: Kenney Tiny Battle Tilemap CC0_165
+  - first:
+      213: 8409102268067270536
+    second: Kenney Tiny Battle Tilemap CC0_166
+  - first:
+      213: -6163505225434060453
+    second: Kenney Tiny Battle Tilemap CC0_167
+  - first:
+      213: 7537985084605551186
+    second: Kenney Tiny Battle Tilemap CC0_168
+  - first:
+      213: -6169621637863865102
+    second: Kenney Tiny Battle Tilemap CC0_169
+  - first:
+      213: -8848710825180464705
+    second: Kenney Tiny Battle Tilemap CC0_170
+  - first:
+      213: 1909501513831773746
+    second: Kenney Tiny Battle Tilemap CC0_171
+  - first:
+      213: -2728321289843030029
+    second: Kenney Tiny Battle Tilemap CC0_172
+  - first:
+      213: -7115043447350244997
+    second: Kenney Tiny Battle Tilemap CC0_173
+  - first:
+      213: -3440150054474213561
+    second: Kenney Tiny Battle Tilemap CC0_174
+  - first:
+      213: 141767867881997068
+    second: Kenney Tiny Battle Tilemap CC0_175
+  - first:
+      213: -8436332584583328251
+    second: Kenney Tiny Battle Tilemap CC0_176
+  - first:
+      213: 1383707376674231413
+    second: Kenney Tiny Battle Tilemap CC0_177
+  - first:
+      213: -4903594118532944955
+    second: Kenney Tiny Battle Tilemap CC0_178
+  - first:
+      213: -425923242373384575
+    second: Kenney Tiny Battle Tilemap CC0_179
+  - first:
+      213: -8761670857930206503
+    second: Kenney Tiny Battle Tilemap CC0_180
+  - first:
+      213: -1897285890636117034
+    second: Kenney Tiny Battle Tilemap CC0_181
+  - first:
+      213: 4157601095469078244
+    second: Kenney Tiny Battle Tilemap CC0_182
+  - first:
+      213: -617411630197143756
+    second: Kenney Tiny Battle Tilemap CC0_183
+  - first:
+      213: -8261826159486221898
+    second: Kenney Tiny Battle Tilemap CC0_184
+  - first:
+      213: -7428548952849588620
+    second: Kenney Tiny Battle Tilemap CC0_185
+  - first:
+      213: 1646317810184116035
+    second: Kenney Tiny Battle Tilemap CC0_186
+  - first:
+      213: -7363124193523546085
+    second: Kenney Tiny Battle Tilemap CC0_187
+  - first:
+      213: 6325166334542561978
+    second: Kenney Tiny Battle Tilemap CC0_188
+  - first:
+      213: -2057439081529960367
+    second: Kenney Tiny Battle Tilemap CC0_189
+  - first:
+      213: 5609484546493190402
+    second: Kenney Tiny Battle Tilemap CC0_190
+  - first:
+      213: -1224006452888202221
+    second: Kenney Tiny Battle Tilemap CC0_191
+  - first:
+      213: 7210251908544290697
+    second: Kenney Tiny Battle Tilemap CC0_192
+  - first:
+      213: 4173997864434856129
+    second: Kenney Tiny Battle Tilemap CC0_193
+  - first:
+      213: -4825914697358618659
+    second: Kenney Tiny Battle Tilemap CC0_194
+  - first:
+      213: -702340828094168936
+    second: Kenney Tiny Battle Tilemap CC0_195
+  - first:
+      213: 2201052851363753144
+    second: Kenney Tiny Battle Tilemap CC0_196
+  - first:
+      213: 670333234633125348
+    second: Kenney Tiny Battle Tilemap CC0_197
+  - first:
+      213: 1336866595474515302
+    second: Kenney Tiny Battle Tilemap CC0_198
+  - first:
+      213: 1799766513860380256
+    second: Kenney Tiny Battle Tilemap CC0_199
+  - first:
+      213: -3235175713159382050
+    second: Kenney Tiny Battle Tilemap CC0_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548cc85cbba8efe70800000000000000
+      internalID: 9150904031941281861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f8ed853f100e70800000000000000
+      internalID: 9079291163653501654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9648c502246b71480800000000000000
+      internalID: -8928467341111688087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bda325f9c138500800000000000000
+      internalID: 397192662743702361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893863224e7781d0800000000000000
+      internalID: -3348568975399700081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f46711bd26d09e0800000000000000
+      internalID: -1653556795144777933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43b9b2e048dac40800000000000000
+      internalID: 5525217514249467095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3992371672155470800000000000000
+      internalID: 8382626579824679228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e00f3b57bee430800000000000000
+      internalID: 3814187536956319533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494421ec3f8f81c70800000000000000
+      internalID: 8942170786162164884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc328ad1ac70a8290800000000000000
+      internalID: -7887483232723655731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ffe44284c0da390800000000000000
+      internalID: -7805569075176865957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ffaa3c739bc870800000000000000
+      internalID: 8704212866593454127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7737cccfd8ee7b0800000000000000
+      internalID: -5193057203410208816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6b12a413dc45090800000000000000
+      internalID: -8046581022623418695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb82549e81decb0800000000000000
+      internalID: -4833179434931929919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235b0a1ec0371c9e0800000000000000
+      internalID: -1602873493204978382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0889cf23707c42b0800000000000000
+      internalID: -5598976596703082485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d337295764b6f0480800000000000000
+      internalID: -8930801585687989443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6d6977068628c50800000000000000
+      internalID: 6666005161994278587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc00fef3d588bfb90800000000000000
+      internalID: -7207016844590382897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795869f50a073e950800000000000000
+      internalID: 6477144523189683607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427659ca3aac60e00800000000000000
+      internalID: 1010717970715207460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a591d7d59b479680800000000000000
+      internalID: -8748440644200852063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a146061e4586990800000000000000
+      internalID: -7392565461367121393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33992785cec55d450800000000000000
+      internalID: 6112894239391258931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de50b28f5abebd0800000000000000
+      internalID: -2599801874584048329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dad71e061063b60800000000000000
+      internalID: 7725363726412262694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eec62a775a92290800000000000000
+      internalID: -7914612936882196978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1f32bd10c1b9c0800000000000000
+      internalID: -3913135367431184943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b57eafb72758360800000000000000
+      internalID: 7171263858473392911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f89638b66671620800000000000000
+      internalID: 2744775109857873748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c13c729660c050800000000000000
+      internalID: 5818763497897576790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e93da9a887365150800000000000000
+      internalID: 5860933025171061220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793b8604ad34f0510800000000000000
+      internalID: 1517506204109681559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42f9a281ab7ef890800000000000000
+      internalID: -7422359202247871921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a07a33a92539a30800000000000000
+      internalID: 4220808098021313119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d601a5d9d720a00800000000000000
+      internalID: 721277005107064193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3d5cda6b88812e0800000000000000
+      internalID: -2154822103515933783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7906c4853c420c0800000000000000
+      internalID: -4601338135259867144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad550a2a0936b940800000000000000
+      internalID: 5311495526347529643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82de0491cb303280800000000000000
+      internalID: -9065680347298082164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a9937fed5d11a0800000000000000
+      internalID: -6837205376260529038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1eb1287bdeae0e0800000000000000
+      internalID: -2239716492245736992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26644577a47c8a520800000000000000
+      internalID: 2713637898134242914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a82e5885ffd33a70800000000000000
+      internalID: 8805627942087305384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cae4afc8b41a2910800000000000000
+      internalID: 1813284583960275657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52f020f63afa8f70800000000000000
+      internalID: 9190433103466787418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77947d882134a3c0800000000000000
+      internalID: -4349297289891375233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4bfef74ff636e10800000000000000
+      internalID: 2189716939741312239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_50
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1fcc815295fb00800000000000000
+      internalID: 861755782663707477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9442c0b164bc6710800000000000000
+      internalID: 1687922292027442333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f2062422857ec60800000000000000
+      internalID: 7847337779882110735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8af28e9a1856d20800000000000000
+      internalID: 3271163271099426980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce241d099df169e0800000000000000
+      internalID: -1629742756340158783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fca565d95e55b30800000000000000
+      internalID: 4275575885179571975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5175fd5060aa240800000000000000
+      internalID: 4803658574835684793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944a3ef53c205d50800000000000000
+      internalID: 6723922854074270874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b083f9af053c4ed0800000000000000
+      internalID: -2428507757667450699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26831ebb52d570fd0800000000000000
+      internalID: -2375827861767374750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab698af12957544e0800000000000000
+      internalID: -1998061589212129606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebf0ce0955f68770800000000000000
+      internalID: 8612841100241075174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bb25a56f0f0c9f0800000000000000
+      internalID: -450095021869057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e5a016badbe7e0800000000000000
+      internalID: -1735052755922984851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06a37019c55e74e0800000000000000
+      internalID: -1982052463943637489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ceb613e7394f780800000000000000
+      internalID: -8650126814067561454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292680934918d0e70800000000000000
+      internalID: 9083058497088152210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3c93d78e2ad1ac0800000000000000
+      internalID: -3882768184306449449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab94eb0b2efb660800000000000000
+      internalID: 7403885561155009239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045055b7d5f6d0680800000000000000
+      internalID: -8787244850638158528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47bff027f7978eb0800000000000000
+      internalID: -4717634996980959412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de76152bdf68f40800000000000000
+      internalID: 5730546518187306250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbeabf6f5239cd90800000000000000
+      internalID: -7077069953958220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd124a40d285f60c0800000000000000
+      internalID: -4580345345637867045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786a334f87190c810800000000000000
+      internalID: 1783585401117845127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5e9a89a19851d40800000000000000
+      internalID: 5554496462754801058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374fca2beda317080800000000000000
+      internalID: -9191500636331641741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764d579a32f2f8480800000000000000
+      internalID: -8894838908820007833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f78f246c7a11d30800000000000000
+      internalID: 4400482780886630181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b9922c443d6a2b0800000000000000
+      internalID: -5573535196555666667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38eaa61f73006680800000000000000
+      internalID: -8764001030486955971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710b25450d6f1c00800000000000000
+      internalID: 873536722135875954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc8d1056fe7ee00800000000000000
+      internalID: 1074090253252873379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505b506f458c19a0800000000000000
+      internalID: -6260982805986324386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc7632e3b83dd430800000000000000
+      internalID: 3809263205070830778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496b66a98f6c9020800000000000000
+      internalID: 2349875742573816129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_86
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440485cbc048b6400800000000000000
+      internalID: 318493388894126148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96275b4e7974f780800000000000000
+      internalID: -8650155400935037281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baef1a5e9e286c20800000000000000
+      internalID: 3199858792898489015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecd45f60941d0870800000000000000
+      internalID: 8650593069824269550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad56830075d5d430800000000000000
+      internalID: 3807183737083813281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4619ad80af9f02cb0800000000000000
+      internalID: -4890634343038676636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22aaf138d07e80d0800000000000000
+      internalID: -3418670993273871825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b1cde59d9a11c70800000000000000
+      internalID: 8940113486371625853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_94
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0616ffb5dae5304d0800000000000000
+      internalID: -3169585614072880800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_95
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3735d82a047bb550800000000000000
+      internalID: 6177658900852324157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_96
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30ab3ff1e78c45f0800000000000000
+      internalID: -771092031467708357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_97
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c57cee2e2d2b50800000000000000
+      internalID: 6569958210473936788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_98
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461aed6c1ae98140800000000000000
+      internalID: 4722563092098717250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_99
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f711a713a798740800000000000000
+      internalID: 5154785601422196496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_100
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d1bcf7c1e2d710800000000000000
+      internalID: 1716682657035835445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_101
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9701f14157b1f0800000000000000
+      internalID: -1029264646172336795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_102
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb00c75b5d6a0650800000000000000
+      internalID: 6199888076110564334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_103
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2c6230257ee7100800000000000000
+      internalID: 107777780529676990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_104
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd834b2d65421100800000000000000
+      internalID: 77200478798319098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a931b8e3fb4590800000000000000
+      internalID: -7688783758073681819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0572a6eca06d0700800000000000000
+      internalID: 508168628682781966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d0d44ac025c8e0800000000000000
+      internalID: -1673895633388251248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e2416626baaeb0800000000000000
+      internalID: -4707750184505645075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123b7e1c801aa620800000000000000
+      internalID: 2786057513474929176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_110
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cbf8bde31d779f0800000000000000
+      internalID: -470677568135119724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_111
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085beb6510cb4e5c0800000000000000
+      internalID: -4187015039611390592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407d5cf83a1806a10800000000000000
+      internalID: 1900661582242109188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb5ffaf0d1d7710800000000000000
+      internalID: 1692540988175007318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415c9501124e6ce0800000000000000
+      internalID: -1410116992444378814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_115
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2003ec3fe8d6a0b0800000000000000
+      internalID: -5717644154869972945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3959ed947cf6622a0800000000000000
+      internalID: -6762594888721721965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87008701c39b793f0800000000000000
+      internalID: -894042333384277896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcdd12da26fd5470800000000000000
+      internalID: 8385128745007963389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_119
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a75bb45d9eaa20800000000000000
+      internalID: 3075568582786525408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_120
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decbac6eaf55cccd0800000000000000
+      internalID: -2536557954014200595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_121
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4640e35486418e0800000000000000
+      internalID: -1723638110773549914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_122
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25033f64691b9a30800000000000000
+      internalID: 4222996994743010605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96bfa6449adb8f90800000000000000
+      internalID: -6950221269540292964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d85e6193c2b3ac0800000000000000
+      internalID: -3874454430713279154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f68d9c08912c460800000000000000
+      internalID: 7260393590207573850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753da0bb6ec532d0800000000000000
+      internalID: -3299504190058056332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_127
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63f4e972edc35ef0800000000000000
+      internalID: -120526392417520788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_128
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c18f3ff6b8a9c90800000000000000
+      internalID: -7162258944428598217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_129
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa47bbba9d55c50800000000000000
+      internalID: 6653463356117397276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc4a23d07215ac0800000000000000
+      internalID: -3868267667296826233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_131
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82750a72bd9ccc4b0800000000000000
+      internalID: -5418734308533709016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd031ffd116a7e0800000000000000
+      internalID: -1754695351292338383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_133
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe2db282c40c3160800000000000000
+      internalID: 7006480353745252088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58be3664a9db62db0800000000000000
+      internalID: -4816954281122600059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_135
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305cca25effe8b0800000000000000
+      internalID: -5120594620257598502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_136
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e5153038141d520800000000000000
+      internalID: 2725031280488046226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f39de8b15c34d0800000000000000
+      internalID: -3153555784364461069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1dfc73ba9796c10800000000000000
+      internalID: 2047301281899336113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_139
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbcd891fc808fdf0800000000000000
+      internalID: -146357302309565506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc68afd44b93b9630800000000000000
+      internalID: 3934802146003420876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac1fe8795598720800000000000000
+      internalID: 2848902348715182711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_142
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6089ea39ad64d20800000000000000
+      internalID: 3262535307900749555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_143
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44413577c2e8fa4d0800000000000000
+      internalID: -3121119695112825788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1443234c076f5c0800000000000000
+      internalID: -4182031216008740402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_145
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacfdef9b70e4cf80800000000000000
+      internalID: -8087092209281794902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cced0c9ee9812ae40800000000000000
+      internalID: 5666118351991135948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3693886f21eef0800000000000000
+      internalID: -80731192385193444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_148
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a7e02a39938e070800000000000000
+      internalID: 8135816033086634556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_149
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd20b90c408e03810800000000000000
+      internalID: 1743148162901279452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_150
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab894ce60c04a4c10800000000000000
+      internalID: 2038512976574847162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_151
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e064b79ffe506a0800000000000000
+      internalID: -6483512233735877006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_152
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b654456ab4f7cb970800000000000000
+      internalID: 8772026137100698987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_153
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74f5790c403ebcd0800000000000000
+      internalID: -2540540036656008067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_154
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e022b8a3c35a60800000000000000
+      internalID: 7661682520397767400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18630e23cd0ebcf0800000000000000
+      internalID: -234734998634928097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c4d78de889fdc0800000000000000
+      internalID: -3604699472965875655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_157
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712e920ac91802550800000000000000
+      internalID: 6134045202180596247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_158
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2213b482ef3e87a0800000000000000
+      internalID: -6373086180561186257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_159
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babc9430f821b7db0800000000000000
+      internalID: -4793216972960969813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_160
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d591634ae3cbc70800000000000000
+      internalID: 8988127831327858027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_161
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3efc3f40e075fa0800000000000000
+      internalID: -5812161379665189952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8b80615d0098840800000000000000
+      internalID: 5226709757737875630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236951a2c86fd010800000000000000
+      internalID: 1215805609553257254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_164
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd828e3f4c358f50800000000000000
+      internalID: 6882973916554497466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_165
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5530013fdaeb74c80800000000000000
+      internalID: -8338486530736651435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fc410a5f123b470800000000000000
+      internalID: 8409102268067270536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_167
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b592db237a4d67aa0800000000000000
+      internalID: -6163505225434060453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_168
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2525b1a1f7d4c9860800000000000000
+      internalID: 7537985084605551186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_169
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f48f84fec9116aa0800000000000000
+      internalID: -6169621637863865102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_170
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f6f01360133580800000000000000
+      internalID: -8848710825180464705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_171
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23673068289ef7a10800000000000000
+      internalID: 1909501513831773746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_172
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f745cdfd3e032ad0800000000000000
+      internalID: -2728321289843030029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_173
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79c7378ea9424d90800000000000000
+      internalID: -7115043447350244997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_174
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747160d80c12240d0800000000000000
+      internalID: -3440150054474213561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_175
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03cbadef19a7f100800000000000000
+      internalID: 141767867881997068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_176
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e8bd046302cea80800000000000000
+      internalID: -8436332584583328251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_177
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57451c3278ae33310800000000000000
+      internalID: 1383707376674231413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_178
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb262a212fe2fbb0800000000000000
+      internalID: -4903594118532944955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_179
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18670c45111d61af0800000000000000
+      internalID: -425923242373384575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d29d2aa6ca486680800000000000000
+      internalID: -8761670857930206503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_181
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db0643e88c7ba5e0800000000000000
+      internalID: -1897285890636117034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_182
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6953d1b24c2b930800000000000000
+      internalID: 4157601095469078244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_183
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43787edb4638e67f0800000000000000
+      internalID: -617411630197143756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_184
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14bc781e8185d80800000000000000
+      internalID: -8261826159486221898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47edcc4e51e78e890800000000000000
+      internalID: -7428548952849588620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_186
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3475c676355e8d610800000000000000
+      internalID: 1646317810184116035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_187
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18c1f7be8de0d990800000000000000
+      internalID: -7363124193523546085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_188
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24ba3e44187c750800000000000000
+      internalID: 6325166334542561978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_189
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158966e5e028273e0800000000000000
+      internalID: -2057439081529960367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_190
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20115c68974e8dd40800000000000000
+      internalID: 5609484546493190402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_191
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31410dcbd94730fe0800000000000000
+      internalID: -1224006452888202221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_192
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5dd5c8e5ff0460800000000000000
+      internalID: 7210251908544290697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_193
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f0e261f40de930800000000000000
+      internalID: 4173997864434856129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_194
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4a9bc628e60db0800000000000000
+      internalID: -4825914697358618659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_195
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890813eecb8c046f0800000000000000
+      internalID: -702340828094168936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_196
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca56918e5bb8e10800000000000000
+      internalID: 2201052851363753144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kenney Tiny Battle Tilemap CC0_197
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed227b76808d4900800000000000000
+      internalID: 670333234633125348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 186a08b00ce57ce4b96ff17e1f3499ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Kenney Tiny Battle Tilemap CC0_0: 9150904031941281861
+      Kenney Tiny Battle Tilemap CC0_1: 9079291163653501654
+      Kenney Tiny Battle Tilemap CC0_10: -7887483232723655731
+      Kenney Tiny Battle Tilemap CC0_100: 1716682657035835445
+      Kenney Tiny Battle Tilemap CC0_101: -1029264646172336795
+      Kenney Tiny Battle Tilemap CC0_102: 6199888076110564334
+      Kenney Tiny Battle Tilemap CC0_103: 107777780529676990
+      Kenney Tiny Battle Tilemap CC0_104: 77200478798319098
+      Kenney Tiny Battle Tilemap CC0_105: -7688783758073681819
+      Kenney Tiny Battle Tilemap CC0_106: 508168628682781966
+      Kenney Tiny Battle Tilemap CC0_107: -1673895633388251248
+      Kenney Tiny Battle Tilemap CC0_108: -4707750184505645075
+      Kenney Tiny Battle Tilemap CC0_109: 2786057513474929176
+      Kenney Tiny Battle Tilemap CC0_11: -7805569075176865957
+      Kenney Tiny Battle Tilemap CC0_110: -470677568135119724
+      Kenney Tiny Battle Tilemap CC0_111: -4187015039611390592
+      Kenney Tiny Battle Tilemap CC0_112: 1900661582242109188
+      Kenney Tiny Battle Tilemap CC0_113: 1692540988175007318
+      Kenney Tiny Battle Tilemap CC0_114: -1410116992444378814
+      Kenney Tiny Battle Tilemap CC0_115: -5717644154869972945
+      Kenney Tiny Battle Tilemap CC0_116: -6762594888721721965
+      Kenney Tiny Battle Tilemap CC0_117: -894042333384277896
+      Kenney Tiny Battle Tilemap CC0_118: 8385128745007963389
+      Kenney Tiny Battle Tilemap CC0_119: 3075568582786525408
+      Kenney Tiny Battle Tilemap CC0_12: 8704212866593454127
+      Kenney Tiny Battle Tilemap CC0_120: -2536557954014200595
+      Kenney Tiny Battle Tilemap CC0_121: -1723638110773549914
+      Kenney Tiny Battle Tilemap CC0_122: 4222996994743010605
+      Kenney Tiny Battle Tilemap CC0_123: -6950221269540292964
+      Kenney Tiny Battle Tilemap CC0_124: -3874454430713279154
+      Kenney Tiny Battle Tilemap CC0_125: 7260393590207573850
+      Kenney Tiny Battle Tilemap CC0_126: -3299504190058056332
+      Kenney Tiny Battle Tilemap CC0_127: -120526392417520788
+      Kenney Tiny Battle Tilemap CC0_128: -7162258944428598217
+      Kenney Tiny Battle Tilemap CC0_129: 6653463356117397276
+      Kenney Tiny Battle Tilemap CC0_13: -5193057203410208816
+      Kenney Tiny Battle Tilemap CC0_130: -3868267667296826233
+      Kenney Tiny Battle Tilemap CC0_131: -5418734308533709016
+      Kenney Tiny Battle Tilemap CC0_132: -1754695351292338383
+      Kenney Tiny Battle Tilemap CC0_133: 7006480353745252088
+      Kenney Tiny Battle Tilemap CC0_134: -4816954281122600059
+      Kenney Tiny Battle Tilemap CC0_135: -5120594620257598502
+      Kenney Tiny Battle Tilemap CC0_136: 2725031280488046226
+      Kenney Tiny Battle Tilemap CC0_137: -3153555784364461069
+      Kenney Tiny Battle Tilemap CC0_138: 2047301281899336113
+      Kenney Tiny Battle Tilemap CC0_139: -146357302309565506
+      Kenney Tiny Battle Tilemap CC0_14: -8046581022623418695
+      Kenney Tiny Battle Tilemap CC0_140: 3934802146003420876
+      Kenney Tiny Battle Tilemap CC0_141: 2848902348715182711
+      Kenney Tiny Battle Tilemap CC0_142: 3262535307900749555
+      Kenney Tiny Battle Tilemap CC0_143: -3121119695112825788
+      Kenney Tiny Battle Tilemap CC0_144: -4182031216008740402
+      Kenney Tiny Battle Tilemap CC0_145: -8087092209281794902
+      Kenney Tiny Battle Tilemap CC0_146: 5666118351991135948
+      Kenney Tiny Battle Tilemap CC0_147: -80731192385193444
+      Kenney Tiny Battle Tilemap CC0_148: 8135816033086634556
+      Kenney Tiny Battle Tilemap CC0_149: 1743148162901279452
+      Kenney Tiny Battle Tilemap CC0_15: -4833179434931929919
+      Kenney Tiny Battle Tilemap CC0_150: 2038512976574847162
+      Kenney Tiny Battle Tilemap CC0_151: -6483512233735877006
+      Kenney Tiny Battle Tilemap CC0_152: 8772026137100698987
+      Kenney Tiny Battle Tilemap CC0_153: -2540540036656008067
+      Kenney Tiny Battle Tilemap CC0_154: 7661682520397767400
+      Kenney Tiny Battle Tilemap CC0_155: -234734998634928097
+      Kenney Tiny Battle Tilemap CC0_156: -3604699472965875655
+      Kenney Tiny Battle Tilemap CC0_157: 6134045202180596247
+      Kenney Tiny Battle Tilemap CC0_158: -6373086180561186257
+      Kenney Tiny Battle Tilemap CC0_159: -4793216972960969813
+      Kenney Tiny Battle Tilemap CC0_16: -1602873493204978382
+      Kenney Tiny Battle Tilemap CC0_160: 8988127831327858027
+      Kenney Tiny Battle Tilemap CC0_161: -5812161379665189952
+      Kenney Tiny Battle Tilemap CC0_162: 5226709757737875630
+      Kenney Tiny Battle Tilemap CC0_163: 1215805609553257254
+      Kenney Tiny Battle Tilemap CC0_164: 6882973916554497466
+      Kenney Tiny Battle Tilemap CC0_165: -8338486530736651435
+      Kenney Tiny Battle Tilemap CC0_166: 8409102268067270536
+      Kenney Tiny Battle Tilemap CC0_167: -6163505225434060453
+      Kenney Tiny Battle Tilemap CC0_168: 7537985084605551186
+      Kenney Tiny Battle Tilemap CC0_169: -6169621637863865102
+      Kenney Tiny Battle Tilemap CC0_17: -5598976596703082485
+      Kenney Tiny Battle Tilemap CC0_170: -8848710825180464705
+      Kenney Tiny Battle Tilemap CC0_171: 1909501513831773746
+      Kenney Tiny Battle Tilemap CC0_172: -2728321289843030029
+      Kenney Tiny Battle Tilemap CC0_173: -7115043447350244997
+      Kenney Tiny Battle Tilemap CC0_174: -3440150054474213561
+      Kenney Tiny Battle Tilemap CC0_175: 141767867881997068
+      Kenney Tiny Battle Tilemap CC0_176: -8436332584583328251
+      Kenney Tiny Battle Tilemap CC0_177: 1383707376674231413
+      Kenney Tiny Battle Tilemap CC0_178: -4903594118532944955
+      Kenney Tiny Battle Tilemap CC0_179: -425923242373384575
+      Kenney Tiny Battle Tilemap CC0_18: -8930801585687989443
+      Kenney Tiny Battle Tilemap CC0_180: -8761670857930206503
+      Kenney Tiny Battle Tilemap CC0_181: -1897285890636117034
+      Kenney Tiny Battle Tilemap CC0_182: 4157601095469078244
+      Kenney Tiny Battle Tilemap CC0_183: -617411630197143756
+      Kenney Tiny Battle Tilemap CC0_184: -8261826159486221898
+      Kenney Tiny Battle Tilemap CC0_185: -7428548952849588620
+      Kenney Tiny Battle Tilemap CC0_186: 1646317810184116035
+      Kenney Tiny Battle Tilemap CC0_187: -7363124193523546085
+      Kenney Tiny Battle Tilemap CC0_188: 6325166334542561978
+      Kenney Tiny Battle Tilemap CC0_189: -2057439081529960367
+      Kenney Tiny Battle Tilemap CC0_19: 6666005161994278587
+      Kenney Tiny Battle Tilemap CC0_190: 5609484546493190402
+      Kenney Tiny Battle Tilemap CC0_191: -1224006452888202221
+      Kenney Tiny Battle Tilemap CC0_192: 7210251908544290697
+      Kenney Tiny Battle Tilemap CC0_193: 4173997864434856129
+      Kenney Tiny Battle Tilemap CC0_194: -4825914697358618659
+      Kenney Tiny Battle Tilemap CC0_195: -702340828094168936
+      Kenney Tiny Battle Tilemap CC0_196: 2201052851363753144
+      Kenney Tiny Battle Tilemap CC0_197: 670333234633125348
+      Kenney Tiny Battle Tilemap CC0_2: -8928467341111688087
+      Kenney Tiny Battle Tilemap CC0_20: -7207016844590382897
+      Kenney Tiny Battle Tilemap CC0_21: 6477144523189683607
+      Kenney Tiny Battle Tilemap CC0_22: 1010717970715207460
+      Kenney Tiny Battle Tilemap CC0_23: -8748440644200852063
+      Kenney Tiny Battle Tilemap CC0_24: -7392565461367121393
+      Kenney Tiny Battle Tilemap CC0_25: 6112894239391258931
+      Kenney Tiny Battle Tilemap CC0_26: -2599801874584048329
+      Kenney Tiny Battle Tilemap CC0_27: 7725363726412262694
+      Kenney Tiny Battle Tilemap CC0_28: -7914612936882196978
+      Kenney Tiny Battle Tilemap CC0_29: -3913135367431184943
+      Kenney Tiny Battle Tilemap CC0_3: 397192662743702361
+      Kenney Tiny Battle Tilemap CC0_30: 7171263858473392911
+      Kenney Tiny Battle Tilemap CC0_31: 2744775109857873748
+      Kenney Tiny Battle Tilemap CC0_32: 5818763497897576790
+      Kenney Tiny Battle Tilemap CC0_33: 5860933025171061220
+      Kenney Tiny Battle Tilemap CC0_34: 1517506204109681559
+      Kenney Tiny Battle Tilemap CC0_35: -7422359202247871921
+      Kenney Tiny Battle Tilemap CC0_36: 4220808098021313119
+      Kenney Tiny Battle Tilemap CC0_37: 721277005107064193
+      Kenney Tiny Battle Tilemap CC0_38: -2154822103515933783
+      Kenney Tiny Battle Tilemap CC0_39: -4601338135259867144
+      Kenney Tiny Battle Tilemap CC0_4: -3348568975399700081
+      Kenney Tiny Battle Tilemap CC0_40: 5311495526347529643
+      Kenney Tiny Battle Tilemap CC0_41: -9065680347298082164
+      Kenney Tiny Battle Tilemap CC0_42: -6837205376260529038
+      Kenney Tiny Battle Tilemap CC0_43: -2239716492245736992
+      Kenney Tiny Battle Tilemap CC0_44: 2713637898134242914
+      Kenney Tiny Battle Tilemap CC0_45: 8805627942087305384
+      Kenney Tiny Battle Tilemap CC0_46: 1813284583960275657
+      Kenney Tiny Battle Tilemap CC0_47: 9190433103466787418
+      Kenney Tiny Battle Tilemap CC0_48: -4349297289891375233
+      Kenney Tiny Battle Tilemap CC0_49: 2189716939741312239
+      Kenney Tiny Battle Tilemap CC0_5: -1653556795144777933
+      Kenney Tiny Battle Tilemap CC0_50: 861755782663707477
+      Kenney Tiny Battle Tilemap CC0_51: 1687922292027442333
+      Kenney Tiny Battle Tilemap CC0_52: 7847337779882110735
+      Kenney Tiny Battle Tilemap CC0_53: 3271163271099426980
+      Kenney Tiny Battle Tilemap CC0_54: -1629742756340158783
+      Kenney Tiny Battle Tilemap CC0_55: 4275575885179571975
+      Kenney Tiny Battle Tilemap CC0_56: 4803658574835684793
+      Kenney Tiny Battle Tilemap CC0_57: 6723922854074270874
+      Kenney Tiny Battle Tilemap CC0_58: -2428507757667450699
+      Kenney Tiny Battle Tilemap CC0_59: -2375827861767374750
+      Kenney Tiny Battle Tilemap CC0_6: 5525217514249467095
+      Kenney Tiny Battle Tilemap CC0_60: -1998061589212129606
+      Kenney Tiny Battle Tilemap CC0_61: 8612841100241075174
+      Kenney Tiny Battle Tilemap CC0_62: -450095021869057188
+      Kenney Tiny Battle Tilemap CC0_63: -1735052755922984851
+      Kenney Tiny Battle Tilemap CC0_64: -1982052463943637489
+      Kenney Tiny Battle Tilemap CC0_65: -8650126814067561454
+      Kenney Tiny Battle Tilemap CC0_66: 9083058497088152210
+      Kenney Tiny Battle Tilemap CC0_67: -3882768184306449449
+      Kenney Tiny Battle Tilemap CC0_68: 7403885561155009239
+      Kenney Tiny Battle Tilemap CC0_69: -8787244850638158528
+      Kenney Tiny Battle Tilemap CC0_7: 8382626579824679228
+      Kenney Tiny Battle Tilemap CC0_70: -4717634996980959412
+      Kenney Tiny Battle Tilemap CC0_71: 5730546518187306250
+      Kenney Tiny Battle Tilemap CC0_72: -7077069953958220856
+      Kenney Tiny Battle Tilemap CC0_73: -4580345345637867045
+      Kenney Tiny Battle Tilemap CC0_74: 1783585401117845127
+      Kenney Tiny Battle Tilemap CC0_75: 5554496462754801058
+      Kenney Tiny Battle Tilemap CC0_76: -9191500636331641741
+      Kenney Tiny Battle Tilemap CC0_77: -8894838908820007833
+      Kenney Tiny Battle Tilemap CC0_78: 4400482780886630181
+      Kenney Tiny Battle Tilemap CC0_79: -5573535196555666667
+      Kenney Tiny Battle Tilemap CC0_8: 3814187536956319533
+      Kenney Tiny Battle Tilemap CC0_80: -8764001030486955971
+      Kenney Tiny Battle Tilemap CC0_81: 873536722135875954
+      Kenney Tiny Battle Tilemap CC0_82: 1074090253252873379
+      Kenney Tiny Battle Tilemap CC0_83: -6260982805986324386
+      Kenney Tiny Battle Tilemap CC0_84: 3809263205070830778
+      Kenney Tiny Battle Tilemap CC0_85: 2349875742573816129
+      Kenney Tiny Battle Tilemap CC0_86: 318493388894126148
+      Kenney Tiny Battle Tilemap CC0_87: -8650155400935037281
+      Kenney Tiny Battle Tilemap CC0_88: 3199858792898489015
+      Kenney Tiny Battle Tilemap CC0_89: 8650593069824269550
+      Kenney Tiny Battle Tilemap CC0_9: 8942170786162164884
+      Kenney Tiny Battle Tilemap CC0_90: 3807183737083813281
+      Kenney Tiny Battle Tilemap CC0_91: -4890634343038676636
+      Kenney Tiny Battle Tilemap CC0_92: -3418670993273871825
+      Kenney Tiny Battle Tilemap CC0_93: 8940113486371625853
+      Kenney Tiny Battle Tilemap CC0_94: -3169585614072880800
+      Kenney Tiny Battle Tilemap CC0_95: 6177658900852324157
+      Kenney Tiny Battle Tilemap CC0_96: -771092031467708357
+      Kenney Tiny Battle Tilemap CC0_97: 6569958210473936788
+      Kenney Tiny Battle Tilemap CC0_98: 4722563092098717250
+      Kenney Tiny Battle Tilemap CC0_99: 5154785601422196496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
