@@ -17,6 +17,9 @@ public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActi
     private bool isDashing = false;
     private bool canDash = true;
 
+    [Header("Melee Variables")]
+    [SerializeField] private float attackForce = 16.0f;
+
     // Source code representation of asset.
     private InputSystem_Actions actions;
     // Source code representation of action map.
@@ -85,6 +88,18 @@ public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActi
         yield return new WaitForSeconds(dashingTime);
         isDashing = false;
         canDash = true;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            if (isDashing)
+            {
+                //Debug.Log($"name: {collision.gameObject.name}");
+                collision.rigidbody.AddForce(dashingDirection * attackForce);
+            }
+        }
     }
 
     // Invoked when "Move" action is either started, performed or canceled.
