@@ -1,88 +1,122 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActions
 {
-    public Rigidbody2D rigidbody2d;
-    public float movementSpeed = 1.0f;
-    Vector2 movementDirection = Vector2.zero;
+    [SerializeField] private Rigidbody2D rigidbody2d;
+    
+    [Header("Movement Variables")]
+    [SerializeField] private float movementVelocity = 8.0f;
+    private Vector2 movementDirection = Vector2.zero;
+
+    [Header("Dashing Variables")]
+    [SerializeField] private float dashingVelocity = 16.0f;
+    [SerializeField] private float dashingTime = 0.2f;
+    private Vector2 dashingDirection = Vector2.zero;
+    private bool isDashing = false;
+    private bool canDash = true;
 
     // Source code representation of asset.
-    public InputSystem_Actions m_Actions;
+    private InputSystem_Actions actions;
     // Source code representation of action map.
-    private InputSystem_Actions.PlayerActions m_Player;
+    private InputSystem_Actions.PlayerActions playerActions;
 
     void Awake()
     {
         // Create asset object.
-        m_Actions = new InputSystem_Actions();
+        actions = new InputSystem_Actions();
         // Extract action map object.
-        m_Player = m_Actions.Player;
+        playerActions = actions.Player;
         // Register callback interface IPlayerActions.
-        m_Player.AddCallbacks(this);
+        playerActions.AddCallbacks(this);
     }
 
     void OnDestroy()
     {
         // Destroy asset object.
-        m_Actions.Dispose();
+        actions.Dispose();
     }
 
     void OnEnable()
     {
         // Enable all actions within map.
-        m_Player.Enable();
+        playerActions.Enable();
     }
 
     void OnDisable()
     {
         // Disable all actions within map.
-        m_Player.Disable();
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
+        playerActions.Disable();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(movementDirection.normalized.x > 0)
+        {
+            // character is facing right
+            transform.localScale = new Vector2(1, 1);
+        }
+        else if (movementDirection.normalized.x < 0)
+        {
+            // character is facing left
+            transform.localScale = new Vector2(-1, 1);
+        }
+
+        // NOTE(Ahmed) set animation state in here
+        // animator.setBool("IsWalking", movementDirection.magnitude != 0);
+        // animator.setBool("IsDashing", isDashing);
     }
-    
-    void FixedUpdate() { 
-        rigidbody2d.linearVelocity = new Vector2(movementDirection.x * movementSpeed, movementDirection.y * movementSpeed);
+
+    void FixedUpdate() 
+    { 
+        if (isDashing) {
+            rigidbody2d.linearVelocity = dashingDirection.normalized * dashingVelocity;
+        }
+        else
+        {
+            rigidbody2d.linearVelocity = movementDirection.normalized * movementVelocity;
+        }
+    }
+
+    private IEnumerator StopDashing()
+    {
+        yield return new WaitForSeconds(dashingTime);
+        isDashing = false;
+        canDash = true;
     }
 
     // Invoked when "Move" action is either started, performed or canceled.
     public void OnMove(InputAction.CallbackContext context)
     {
         movementDirection = context.ReadValue<Vector2>();
-        //Debug.Log($"OnMove: {context.ReadValue<Vector2>()}");
     }
 
-    // Invoked when "Attack" action is either started, performed or canceled.
+    public void OnDash(InputAction.CallbackContext context)
+    {
+        if (canDash) {
+            canDash = false;
+            isDashing = true;
+            dashingDirection = movementDirection;
+
+            if (dashingDirection == Vector2.zero) {
+                // NOTE(Ahmed) our character is simple and it only has a single sprite facing right
+                // we can use the x scale to determine the current direction the character faces.
+                // currently we only "Animate" 2 directions, if we had a 4 directional animation this has to change.
+                dashingDirection = new Vector2(transform.localScale.x, 0);
+            }
+
+            StartCoroutine(StopDashing()); 
+        }
+    }
+
     public void OnAttack(InputAction.CallbackContext context)
     {
-        Debug.Log($"OnAttack: {context.ReadValue<float>()}");
-    }
-
-    public void OnLook(InputAction.CallbackContext context)
-    {
-        throw new System.NotImplementedException();
+        // Debug.Log($"OnAttack: {context.ReadValue<float>()}");
     }
 
     public void OnInteract(InputAction.CallbackContext context)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    public void OnCrouch(InputAction.CallbackContext context)
-    {
-        throw new System.NotImplementedException();
-    }
-
-    public void OnJump(InputAction.CallbackContext context)
     {
         throw new System.NotImplementedException();
     }
@@ -97,8 +131,4 @@ public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActi
         throw new System.NotImplementedException();
     }
 
-    public void OnSprint(InputAction.CallbackContext context)
-    {
-        throw new System.NotImplementedException();
-    }
 }
