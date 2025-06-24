@@ -19,6 +19,7 @@ public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActi
 
     [Header("Melee Variables")]
     [SerializeField] private float attackForce = 16.0f;
+    [SerializeField] private int dashAttackDamage = 10;
 
     // Source code representation of asset.
     private InputSystem_Actions actions;
@@ -98,6 +99,10 @@ public class PlayerController2D : MonoBehaviour, InputSystem_Actions.IPlayerActi
             {
                 //Debug.Log($"name: {collision.gameObject.name}");
                 collision.rigidbody.AddForce(dashingDirection * attackForce);
+
+                if (collision.transform.TryGetComponent<Health>(out Health health)) {
+                    health.Damage(dashAttackDamage);
+                }
             }
         }
     }
