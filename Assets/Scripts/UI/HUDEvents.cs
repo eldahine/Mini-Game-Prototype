@@ -9,6 +9,7 @@ public class HUDEvents : MonoBehaviour
 
     private UIDocument uiDocument;
     private Button pauseButton;
+
     private List<Button> buttons;
 
     private AudioSource audioSource;
@@ -19,6 +20,9 @@ public class HUDEvents : MonoBehaviour
 
         pauseButton = uiDocument.rootVisualElement.Q("PauseButton") as Button;
         pauseButton.RegisterCallback<ClickEvent>(OnPauseButtonClick);
+
+        var versionLabel = uiDocument.rootVisualElement.Q("VersionLabel") as Label;
+        versionLabel.text = "v" + Application.version;
 
         buttons = uiDocument.rootVisualElement.Query<Button>().ToList();
 

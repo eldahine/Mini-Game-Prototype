@@ -3,4 +3,5 @@
     <ui:VisualElement name="Container" style="flex-grow: 1;">
         <ui:Button text="Pause" name="PauseButton" class="button" style="align-self: flex-start;" />
     </ui:VisualElement>
+    <ui:Label text="v0.0.0" name="VersionLabel" style="-unity-font-definition: url(&quot;project://database/Assets/Fonts/Ninja%20Adventure%20Asset%20Pack%20Normal%20Font%20CC0.ttf?fileID=12800000&amp;guid=d0d5400b69edcba4d88e55d0093c6321&amp;type=3#Ninja Adventure Asset Pack Normal Font CC0&quot;); -unity-text-align: upper-center; color: rgb(255, 255, 255);" />
 </ui:UXML>
