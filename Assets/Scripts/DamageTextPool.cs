@@ -23,6 +23,7 @@ public class DamageTextPool : MonoBehaviour
         {
             tmp = Instantiate(objectToPool);
             tmp.SetActive(false);
+            tmp.transform.SetParent(gameObject.transform, false);
             pooledObjects.Add(tmp);
         }
     }
