@@ -5,6 +5,7 @@ public class Health : MonoBehaviour
     [Header("Health Variables")]
     [SerializeField] private int maxHealth = 100;
     [SerializeField] private int health = 100;
+    [SerializeField] private bool disableInsteadDestroyOnDeath = false;
 
     void Start()
     {
@@ -46,9 +47,23 @@ public class Health : MonoBehaviour
         }
     }
 
-    public void Die() { 
-        Destroy(gameObject);
+    public void Die() {
+        if (disableInsteadDestroyOnDeath) 
+        {
+            gameObject.SetActive(false);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+
         Debug.Log($"{gameObject.name} died");
     }
-    
+
+    public void Revive()
+    {
+       health = maxHealth;
+       gameObject.SetActive(true);
+    }
+
 }

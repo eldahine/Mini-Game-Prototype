@@ -63,3 +63,8 @@
     background-color: rgba(0, 0, 0, 0);
     scale: 1.1 1.1;
 }
+
+.heading1 {
+    -unity-font-definition: url("project://database/Assets/Fonts/Ninja%20Adventure%20Asset%20Pack%20Normal%20Font%20CC0.ttf?fileID=12800000&guid=d0d5400b69edcba4d88e55d0093c6321&type=3#Ninja Adventure Asset Pack Normal Font CC0");
+    font-size: 32px;
+}
