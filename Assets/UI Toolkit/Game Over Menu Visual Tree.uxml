@@ -1,0 +1,15 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Default%20Style.uss?fileID=7433441132597879392&amp;guid=123b5b44c0ce2c04eae39539f93e37d7&amp;type=3#Default Style" />
+    <ui:VisualElement name="Container" style="flex-grow: 1;">
+        <ui:Label text="Game Over" class="heading1" style="-unity-text-align: upper-center;" />
+        <ui:GroupBox name="GroupBox" style="justify-content: space-between; height: auto;">
+            <ui:GroupBox>
+                <ui:Button text="Revive using&#10;Phoenix&apos;s Tear " name="ReviveWithPotionButton" enabled="false" class="button" />
+                <ui:Button text="Watch Ad &#10;to Revive" name="ReviveWatchingAdButton" class="button" />
+            </ui:GroupBox>
+            <ui:GroupBox>
+                <ui:Button text="Restart" name="RestartButton" class="button" style="margin-top: 2px;" />
+            </ui:GroupBox>
+        </ui:GroupBox>
+    </ui:VisualElement>
+</ui:UXML>

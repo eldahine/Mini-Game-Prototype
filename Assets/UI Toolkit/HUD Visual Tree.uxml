@@ -1,0 +1,6 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Default%20Style.uss?fileID=7433441132597879392&amp;guid=123b5b44c0ce2c04eae39539f93e37d7&amp;type=3#Default Style" />
+    <ui:VisualElement name="Container" style="flex-grow: 1;">
+        <ui:Button text="Pause" name="PauseButton" class="button" style="align-self: flex-start;" />
+    </ui:VisualElement>
+</ui:UXML>

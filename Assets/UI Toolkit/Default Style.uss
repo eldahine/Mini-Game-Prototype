@@ -1,0 +1,70 @@
+:root {
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+}
+
+.button {
+    font-size: 24px;
+    min-width: 200px;
+    max-width: 400px;
+    align-items: auto;
+    align-self: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-image: url("project://database/Assets/Artworks/Tilesets/Kenney%20UI%20Pack%20Pixel%20Adventure%20Large%20Tile%20Tick%20Outline%20CC0.png?fileID=-1050523704&guid=20bf340a227f4904ea20fc4b4c36d7be&type=3#Kenney UI Pack Pixel Adventure Large Tile CC0_11");
+    background-repeat: no-repeat no-repeat;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-slice-left: 12;
+    -unity-slice-top: 12;
+    -unity-slice-right: 12;
+    -unity-slice-bottom: 12;
+    -unity-slice-scale: 1px;
+    -unity-slice-type: tiled;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/Fonts/Ninja%20Adventure%20Asset%20Pack%20Normal%20Font%20CC0.ttf?fileID=12800000&guid=d0d5400b69edcba4d88e55d0093c6321&type=3#Ninja Adventure Asset Pack Normal Font CC0");
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.button:hover {
+    font-size: 24px;
+    min-width: 200px;
+    max-width: 400px;
+    align-items: auto;
+    align-self: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-image: url("project://database/Assets/Artworks/Tilesets/Kenney%20UI%20Pack%20Pixel%20Adventure%20Large%20Tile%20Tick%20Outline%20CC0.png?fileID=1466593136&guid=20bf340a227f4904ea20fc4b4c36d7be&type=3#Kenney UI Pack Pixel Adventure Large Tile CC0_14");
+    background-repeat: no-repeat no-repeat;
+    -unity-background-scale-mode: stretch-to-fill;
+    -unity-slice-left: 12;
+    -unity-slice-top: 12;
+    -unity-slice-right: 12;
+    -unity-slice-bottom: 12;
+    -unity-slice-scale: 1px;
+    -unity-slice-type: tiled;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/Fonts/Ninja%20Adventure%20Asset%20Pack%20Normal%20Font%20CC0.ttf?fileID=12800000&guid=d0d5400b69edcba4d88e55d0093c6321&type=3#Ninja Adventure Asset Pack Normal Font CC0");
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    scale: 1.1 1.1;
+}
+
+.heading1 {
+    -unity-font-definition: url("project://database/Assets/Fonts/Ninja%20Adventure%20Asset%20Pack%20Normal%20Font%20CC0.ttf?fileID=12800000&guid=d0d5400b69edcba4d88e55d0093c6321&type=3#Ninja Adventure Asset Pack Normal Font CC0");
+    font-size: 32px;
+}
