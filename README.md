@@ -1,6 +1,8 @@
 ![App Icon Kenney Tiny Dungeon Soldier Tile 128x128 CC0 1](https://github.com/user-attachments/assets/5df01695-fad2-40a8-bc6d-921aaf4aa72b)
-## Introduction
+# Web Build
+[Play Web Build on GitHub Pages](https://eldahine.github.io/Mini-Game-Prototype)
 
+# Introduction
 ### Game Summary Pitch
 
 Tiny Dungeon is an action roguelike RPG where players, solo or in a party, venture into a cursed dungeon to save a doomed village.
